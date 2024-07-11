@@ -2,6 +2,12 @@
 
 Challenge #1 from [The Ultimate React Course 2024: React, Next.js, Redux & More by Jonas Schmedtmann](https://www.udemy.com/course/the-ultimate-react-course/)
 
+A very simple profile card made using react.
+
+<p align="center">
+<img src="screenshots/Screen Shot 2024-07-11 at 6.46.41 PM.png" width="300px">
+</p>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
